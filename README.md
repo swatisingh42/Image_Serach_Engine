@@ -1,5 +1,6 @@
 # Image Search Engine
 Image Search Engine
 
-visit the site here: image-serach-engine.vercel.app
+visit the site here: https://swatisingh42.github.io/Image_Serach_Engine/
+
 
